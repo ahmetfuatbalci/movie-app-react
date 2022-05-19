@@ -4,7 +4,7 @@
 ___
 **Clone the project**
 ```
- https://github.com/ahmetfuatbalci/movie-app-react
+ https://github.com/feyyazbalci/movie-app-react
 ```
 
 
